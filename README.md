@@ -49,7 +49,7 @@ This milestone builds upon the property listing page by introducing:
 ## 📂 Project Structure
 
 ```bash
-alx-listing-app-01/
+alx-listing-app-detail/
 ├── components/
 │   ├── layout/                # Header, Footer, Layout components
 │   ├── common/                # Reusable UI components
